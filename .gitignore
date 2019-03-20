@@ -1,0 +1,13 @@
+# Dependency directory
+node_modules
+
+public/
+coverage/
+reports/
+bin/logs/
+.tmp/
+idea/
+.DS_Store
+npm-debug.log
+snippets.txt
+.vscode

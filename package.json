@@ -1,0 +1,26 @@
+{
+  "name": "scrape-my-likes",
+  "version": "1.0.0",
+  "description": "Scrape Twitter likes with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "puppeteer",
+    "scaper",
+    "twitter",
+    "nodejs",
+    "js"
+  ],
+  "author": "Nicola Zanon",
+  "license": "MIT",
+  "dependencies": {
+    "convert-hrtime": "2.0.0",
+    "puppeteer": "1.13.0"
+  },
+  "devDependencies": {
+    "jest": "24.5.0",
+    "prettier": "1.16.4"
+  }
+}
